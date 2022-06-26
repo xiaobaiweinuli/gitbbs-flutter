@@ -1,2 +1,2 @@
 ///应用名
-const APP_NAME = 'gitbbs';
+const APP_NAME = '白';
