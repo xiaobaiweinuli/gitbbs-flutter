@@ -4,7 +4,7 @@ const data_repo_owner = 'gitbbsgroup';
 ///数据源仓库name
 const data_repo_name = 'gitbbs-forum';
 
-//const data_repo_owner = 'wrbug';
+//const data_repo_owner = 'xiaobaiweinuli';
 //const data_repo_name = 'gitbbstest';
 
 ///默认token 未登录时获取issue列表用
@@ -12,10 +12,10 @@ const default_token = 'c3a8f4035dfe909356036797e946fd99c1cb99a6';
 const default_token_key = 'defaultToken';
 
 ///项目地址
-const github_url = "https://github.com/WrBug/gitbbs-flutter";
+const github_url = "https://github.com/xiaobaiweinuli/gitbbs-flutter";
 
 ///app仓库owner
-const app_repo_owner = 'wrbug';
+const app_repo_owner = 'xiaobaiweinuli';
 
 ///app仓库name
 const app_repo_name = 'gitbbs-flutter';
